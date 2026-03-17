@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="flex min-h-screen items-center justify-center">
-      <h1>안녕하세요., 제 방에 들어오신 걸 환영합니다.</h1>
+      <h1>Welcome to My Space!</h1>
     </div>
   )
 }
